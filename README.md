@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShirakamiKazuo
+- 👋 Hi, I’m Aldrick
 - 👀 I’m interested in learning how to make an application
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Phyton and Java
 - 💞️ I’m looking to collaborate on some basic level projects so I can further enhance my experience in programming.
